@@ -11,4 +11,3 @@ var sayHiToGrandma = str => {
   if (str === str.toUppercase()) return "YES INDEED!";
   if (str === 'I love you, Grandma.') return "I love you, too."
 }
-
